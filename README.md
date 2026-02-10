@@ -78,7 +78,7 @@ Simply open `index.html` in a web browser, or deploy to any static hosting servi
 
 ## Contact
 
-hello@xtrec.co.uk
+admin@xtrec.co.uk
 
 ---
 
