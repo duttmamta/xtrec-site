@@ -254,5 +254,11 @@
             document.getElementById('successMessage').style.display = 'none';
         }
     </script>
+    <script>
+        if (window.location.search.includes("success=true")) {
+            document.getElementById("contactForm").style.display = "none";
+            document.getElementById("successMessage").style.display = "block";
+        }
+    </script>
 </body>
 </html>
